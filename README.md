@@ -2,7 +2,7 @@
   
   <h1>
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/renanpovoas/">Renan Póvoas 💛</a>
+    <a href="https://www.linkedin.com/in/renanpovoas/">Renan Póvoas 💚</a>
   </h1>
   
   <p>
@@ -12,17 +12,15 @@
   
 </div>
 
-<div>
-  <a href="https://github.com/repovoas">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=repovoas&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&hide_border=false&show_owner=true&hide_title=true"/>
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=repovoas&count_private=true&include_all_commits=true&show_icons=true&theme=treuse-dark&hide_border=false&show_owner=true&hide_title=true&bg_color=000000&icon_color=39FF14&title_color=39FF14&text_color=FFFFFF"/>
+</a>
 
 <h2>
   Oque estou estudando no momento 🔍
 </h2>
 <p>
-  Sempre procurando aprender novas tecnologias! 🧡
+  Sempre procurando aprender novas tecnologias! ✔
 </p>
 
 <div style="display: inline_block">
