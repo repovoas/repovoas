@@ -17,6 +17,18 @@
 </a>
 
 <h2>
+  Softs Skills 🧬 
+</h2>
+
+<div style="display: inline_block">
+  <img align="center" alt="Comunicativo" src="https://img.shields.io/badge/Comunicativo-105126?style=for-the-badge" />
+  <img align="center" alt="Criativo" src="https://img.shields.io/badge/Criativo-147338?style=for-the-badge" />
+  <img align="center" alt="Flexível" src="https://img.shields.io/badge/Flexível-26874D?style=for-the-badge" />
+  <img align="center" alt="Proativo" src="https://img.shields.io/badge/Proativo-147338?style=for-the-badge" />
+  <img align="center" alt="Produtivo" src="https://img.shields.io/badge/Produtivo-105126?style=for-the-badge" />
+</div><br>
+
+<h2>
   Oque estou estudando no momento 🔍
 </h2>
 <p>
